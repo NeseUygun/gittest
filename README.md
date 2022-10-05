@@ -1,2 +1,3 @@
-## This is the Git tutorial by Krish Naik
+## This is the Git tutorial by Krish Naik. 
 ## We will learn git
+## Created a new line by developer1
